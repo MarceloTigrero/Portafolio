@@ -8,7 +8,7 @@ const allCertifications = [
     issuer: "MinisteriodeTrabajo",
     date: "09/03/24",
     credential: "PRTCS-2024",
-    link: "https://github.com/MarceloTigrero/Portafolio/blob/main/certificados/MinisteriodeTrabajo_PrevenciondeRiesgosdeTrabajosenCalienteySoldadura_09_03_24.pdf"
+    link: "https://github.com/MarceloTigrero/Portafolio/tree/main/public/documents/certificados/MinisteriodeTrabajo_PrevenciondeRiesgosdeTrabajosenCalienteySoldadura_09_03_24.pdf"
   },
   {
     id: 2,
@@ -16,7 +16,7 @@ const allCertifications = [
     issuer: "MinisteriodeTrabajo", 
     date: "09/03/24",
     credential: "PTA-2024",
-    link: "https://github.com/MarceloTigrero/Portafolio/blob/main/certificados/MinisteriodeTrabajo_PrevenciondeTrabajodeAlturas_09_03_24.pdf"
+    link: "https://github.com/MarceloTigrero/Portafolio/tree/main/public/documents/certificados/MinisteriodeTrabajo_PrevenciondeTrabajodeAlturas_09_03_24.pdf"
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const allCertifications = [
     issuer: "MinisteriodeTrabajo",
     date: "09/03/24",
     credential: "TEC-2024",
-    link: "https://github.com/MarceloTigrero/Portafolio/blob/main/certificados/MinisteriodeTrabajo_TrabajoenEspaciosConfinados_09_03_24.pdf"
+    link: "https://github.com/MarceloTigrero/Portafolio/tree/main/public/documents/certificados/MinisteriodeTrabajo_TrabajoenEspaciosConfinados_09_03_24.pdf"
   },
   {
     id: 4,
@@ -32,7 +32,7 @@ const allCertifications = [
     issuer: "RedCross",
     date: "02/29/24",
     credential: "BPT-2024",
-    link: "https://github.com/MarceloTigrero/Portafolio/blob/main/certificados/RedCross_bloodbornepathogenstraining_2_29_24.pdf"
+    link: "https://github.com/MarceloTigrero/Portafolio/tree/main/public/documents/certificados/RedCross_bloodbornepathogenstraining_2_29_24.pdf"
   },
   {
     id: 5,
@@ -40,7 +40,7 @@ const allCertifications = [
     issuer: "RedCross",
     date: "02/29/24", 
     credential: "LG-2024",
-    link: "https://github.com/MarceloTigrero/Portafolio/blob/main/certificados/RedCross_lifeguardeep_2_29_24.pdf"
+    link: "https://github.com/MarceloTigrero/Portafolio/tree/main/public/documents/certificados/RedCross_lifeguardeep_2_29_24.pdf"
   },
   {
     id: 6,
@@ -48,7 +48,7 @@ const allCertifications = [
     issuer: "i3lab",
     date: "09/01/24",
     credential: "TSWG-2024",
-    link: "https://github.com/MarceloTigrero/Portafolio/blob/main/certificados/i3lab_TechstarsStartupWeekendGuayaquil2024_09_01_24.pdf"
+    link: "https://github.com/MarceloTigrero/Portafolio/tree/main/public/documents/certificados/i3lab_TechstarsStartupWeekendGuayaquil2024_09_01_24.pdf"
   },
   {
     id: 7,
@@ -56,7 +56,7 @@ const allCertifications = [
     issuer: "MinisteriodeTrabajo",
     date: "08/06/24",
     credential: "PRL-2024",
-    link: "https://github.com/MarceloTigrero/Portafolio/blob/main/certificados/MinisteriodeTrabajo_PrevenciondeRiesgoLaboral_08_06_24.pdf"
+    link: "https://github.com/MarceloTigrero/Portafolio/tree/main/public/documents/certificados/MinisteriodeTrabajo_PrevenciondeRiesgoLaboral_08_06_24.pdf"
   },
   {
     id: 8,
@@ -64,7 +64,7 @@ const allCertifications = [
     issuer: "Cenforpro",
     date: "08/06/24",
     credential: "PA-2024",
-    link: "https://github.com/MarceloTigrero/Portafolio/blob/main/certificados/Cenforpro_PrimerosAuxilios_08_06_24.pdf"
+    link: "https://github.com/MarceloTigrero/Portafolio/tree/main/public/documents/certificados/Cenforpro_PrimerosAuxilios_08_06_24.pdf"
   },
   {
     id: 9,
@@ -72,7 +72,7 @@ const allCertifications = [
     issuer: "Cenforpro",
     date: "08/06/24",
     credential: "PRSO-2024",
-    link: "https://github.com/MarceloTigrero/Portafolio/blob/main/certificados/Cenforpro_PrevenciondeRiesgosSeguridadIndustrialySaludOcupacionalenelSectorIndustrialylaConstruccion_08_06_24.pdf"
+    link: "https://github.com/MarceloTigrero/Portafolio/tree/main/public/documents/certificados/Cenforpro_PrevenciondeRiesgosSeguridadIndustrialySaludOcupacionalenelSectorIndustrialylaConstruccion_08_06_24.pdf"
   },
   {
     id: 10,
@@ -80,7 +80,7 @@ const allCertifications = [
     issuer: "Safe&SoundCitiesCuenca",
     date: "10/14/23",
     credential: "HACK-2023",
-    link: "https://github.com/MarceloTigrero/Portafolio/blob/main/certificados/Safe&SoundCitiesCuenca_Hackathon_10_14_23.pdf"
+    link: "https://github.com/MarceloTigrero/Portafolio/tree/main/public/documents/certificados/Safe&SoundCitiesCuenca_Hackathon_10_14_23.pdf"
   },
   {
     id: 11,
@@ -112,7 +112,7 @@ const allCertifications = [
     issuer: "ORACLE",
     date: "01/24/20",
     credential: "JF-2020",
-    link: "https://github.com/MarceloTigrero/Portafolio/blob/main/certificados/ORACLE_JavaFundation_01_24_20.pdf"
+    link: "https://github.com/MarceloTigrero/Portafolio/tree/main/public/documents/certificados/ORACLE_JavaFundation_01_24_20.pdf"
   },
   {
     id: 15,
@@ -136,7 +136,7 @@ const allCertifications = [
     issuer: "MultiBilingue",
     date: "11/01/17",
     credential: "EP-2017",
-    link: "https://github.com/MarceloTigrero/Portafolio/blob/main/certificados/MultiBilingue_EnglishProgram_11_01_17.pdf"
+    link: "https://github.com/MarceloTigrero/Portafolio/tree/main/public/documents/certificados/MultiBilingue_EnglishProgram_11_01_17.pdf"
   },
   {
     id: 18,
@@ -144,7 +144,7 @@ const allCertifications = [
     issuer: "UICSA",
     date: "12/10/17",
     credential: "CTA-2017",
-    link: "https://github.com/MarceloTigrero/Portafolio/blob/main/certificados/UICSA_CapacitacionTecnicaAutomotriz_12_10_17.pdf"
+    link: "https://github.com/MarceloTigrero/Portafolio/tree/main/public/documents/certificados/UICSA_CapacitacionTecnicaAutomotriz_12_10_17.pdf"
   }
 ];
 const Certifications = () => {
