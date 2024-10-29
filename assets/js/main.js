@@ -333,3 +333,23 @@
 			});
 
 })(jQuery);
+
+// Añade esta función al final del archivo main.js
+function filterProjects(tag) {
+    $('.project').each(function() {
+        if ($(this).data('tags').includes(tag) || tag === 'all') {
+            $(this).show();
+        } else {
+            $(this).hide();
+        }
+    });
+}
+
+// Llama a esta función cuando se cargue la página
+$(document).ready(function() {
+    // Configura los listeners para los botones de filtrado
+    $('.filter-btn').on('click', function() {
+        var tag = $(this).data('tag');
+        filterProjects(tag);
+    });
+});
