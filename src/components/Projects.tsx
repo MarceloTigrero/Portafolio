@@ -25,7 +25,7 @@ const projects: Project[] = [
     title: "Sistema de Recolección de Datos Plantares",
     description: "Programa especializado en la recolección y segmentación de datos para machine learning, enfocado en el análisis de movimientos del pie. Incluye previsualización de imágenes monocromáticas y captura de señales musculares.",
     tags: ["Machine Learning", "Procesamiento de Señales", "Python", "Análisis de Datos"],
-    image: "/documents/projectspng/DatosPlantares.png",
+    image: "https://raw.githubusercontent.com/MarceloTigrero/Portafolio/refs/heads/gh-pages/documents/projectspng/DatosPlantares.png",
     githubUrl: "https://github.com/MarceloTigrero/DatosPlantares"
   },
   {
