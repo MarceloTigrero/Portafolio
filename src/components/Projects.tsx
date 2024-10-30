@@ -32,7 +32,7 @@ const projects: Project[] = [
     id: 3,
     title: "Servicio de Transcripción",
     description: "Servicio backend en Python utilizando Docker que convierte audio a texto. Implementa una arquitectura limpia con servicios de transcripción, conversión de formatos y manejo de archivos.",
-    tags: ["Python", "Docker", "Flask", "OpenAI-Whisper", "API REST"],
+    tags: ["Python", "Docker", "Flask", "OpenAI-Whisper", "API REST","Backend"],
     image: "https://www.protranslate.net/blog/wp-content/uploads/2020/01/blog-1140x600-1.png",
     githubUrl: "https://github.com/MarceloTigrero/Transcribe_Service_Open"
   },
